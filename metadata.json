@@ -1,0 +1,6 @@
+{
+  "name": "LocalEdge",
+  "description": "Enterprise AI Automation platform for local intelligence, workflow design, and autonomous agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
